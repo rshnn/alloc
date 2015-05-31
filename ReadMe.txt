@@ -4,7 +4,7 @@ ROSHAN PATEL
 198:415:  COMPILERS PROJECT 1
 
 
-Front end compiler tool.  Will convert ILOC code into equivalent ILOC code utilizing a finite number of physical registers.
+Back end compiler tool.  Will convert ILOC code into equivalent ILOC code utilizing a finite number of physical registers.
 Three allocation algorithms available:
 	Simple top down allocation
 	Top down implementation with consideration of virtual register life range
